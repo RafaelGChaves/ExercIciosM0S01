@@ -1,2 +1,2 @@
-# ExercIciosM1S01
+# ExerciciosM1S01
 Resolução dos exercícios da primeira semana DEVinHouse
